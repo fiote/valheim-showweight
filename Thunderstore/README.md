@@ -16,19 +16,19 @@ You can config the text to be displayed in different positions on your screen. Y
 
 # CONSOLE COMMANDS
 
-sw.h=<VALUE>
+```sw.h=VALUE```<br/>
 set the horizontal anchor of the text. Options are "left", "center" and "right".
 
-sw.v=<VALUE>
+```sw.v=VALUE```<br/>
 set the vertical anchor of the text. Options are "top", "center" and "bottom".
 
-sw.x=<VALUE>
+```sw.x=VALUE```<br/>
 set the horizontal offset of the text. The value must be an integer.
 
-sw.y=<VALUE>
+```sw.y=VALUE```<br/>
 set the vertical offset of the text. The value must be an integer.
 
-sw.fontsize=<VALUE>
+```sw.fontsize=VALUE```<br/>
 set the font size of the text. The value must be an integer.
 
 # CHANGELOG
