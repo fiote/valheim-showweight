@@ -1,0 +1,8 @@
+﻿{
+    "name": "ShowWeight",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/fiote/valheim-showweight",
+    "description": "Display the player's inventory weight at all times.",
+    "dependencies": [
+    ]
+}
